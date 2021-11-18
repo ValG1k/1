@@ -33,4 +33,5 @@ if defined _OLD_CODEPAGE (
     set _OLD_CODEPAGE=
 )
 
-.\manage.py runserver
+
+.\manage.py runserver  
